@@ -1,0 +1,3 @@
+D:/untitled/AISD1/cmake-build-debug/CMakeFiles/AISD1.dir
+D:/untitled/AISD1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/untitled/AISD1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

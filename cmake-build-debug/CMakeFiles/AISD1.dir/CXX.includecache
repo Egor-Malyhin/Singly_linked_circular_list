@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/untitled/AISD1/Exeption.h
+iostream
+-
+
+D:/untitled/AISD1/List.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+windows.h
+-
+Exeption.h
+D:/untitled/AISD1/Exeption.h
+
+D:/untitled/AISD1/main.cpp
+List.h
+D:/untitled/AISD1/List.h
+Exeption.h
+D:/untitled/AISD1/Exeption.h
+iostream
+-
+conio.h
+-
+
